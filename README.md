@@ -24,7 +24,7 @@ Find the sum of  'num_one' and 'num_two' then assign to 'variable_total'
 **Example 1:**
 
 ```Python
-Input: num_one=4, num_two=5
+Input: 4, 5
 Output: 9
 
 ```
@@ -42,7 +42,7 @@ Find the sum of a and b than assign to 'answer'
 **Example 1:**
 
 ```Python
-Input: a=3 , b=4
+Input: 3 , 4
 Output: 7
 
 ```
