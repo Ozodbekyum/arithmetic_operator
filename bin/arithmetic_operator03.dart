@@ -7,5 +7,9 @@ find the difference of a and b then assign to "answer"
 
 */
 void main() {
+  int a=6;
+  int b=2;
+  int answer=a-b;
+  print(answer);
   //write your code here
 }
